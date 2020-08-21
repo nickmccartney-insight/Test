@@ -7,3 +7,6 @@ dependencies:
   - pyodbc
   - bokeh
   - sqlalchemy
+  - ipython-sql
+  - matplotlib
+  - numpy
